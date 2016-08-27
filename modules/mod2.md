@@ -11,7 +11,9 @@
   + **Pleased to meet you.** - **どうぞ宜しく** (どうぞよろしく) *[dozo-yoroshiku]*
 
   + **See you later!** - **ではまた** *[dewa-mata]*  
-  Both of these terms can be used interchangeably. 
+  
+  *Both of these terms can be used interchangeably.*
+
   + **See you later!** - **じゃまた** *[ja-mata]*
 
   + **My** - **私の** (わたしの) *[watashi-no]*
