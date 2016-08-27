@@ -6,10 +6,12 @@
 
   + **This person** - **こちらわ** *[kochira-wa]*
 
-  + **How do you do?** - **初めまして** (はじめまして) *[hajimemashite]*
+  + **How do you do?** - **初めまして** (はじめまして) *[hajimemashite]* - This is expression literally meaning "meeting you for the first time" should only be used when introducing yourself or being introduced.
+
   + **Pleased to meet you.** - **どうぞ宜しく** (どうぞよろしく) *[dozo-yoroshiku]*
 
   + **See you later!** - **ではまた** *[dewa-mata]*
+Both of these terms can be used interchangeably. 
   + **See you later!** - **じゃまた** *[ja-mata]*
 
   + **My** - **私の** (わたしの) *[watashi-no]*
