@@ -1,5 +1,5 @@
 # JP:
-Using FSI Japanese Headstart Student: Modules 1-10
+Using FSI Japanese Headstart: Student Modules 1-10
 
 ## Hiragana:
 
