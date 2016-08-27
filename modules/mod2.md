@@ -12,7 +12,7 @@
 
   + **See you later!** - **ではまた** *[dewa-mata]*  
   
-  *Both of these terms can be used interchangeably.*
+  **Both of these terms can be used interchangeably.**
 
   + **See you later!** - **じゃまた** *[ja-mata]*
 
