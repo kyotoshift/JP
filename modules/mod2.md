@@ -15,20 +15,16 @@
   **Both of these terms can be used interchangeably.**
 
   + **See you later!** - **じゃまた** *[ja-mata]*
+ 
+----  
 
   + **My** - **私の** (わたしの) *[watashi-no]*
   + **Friend** - **友達** (ともだち) *[tomodachi]*
-
   + **My wife** - **家内** (かない) *[kanai]*
   + **My husband** - **主人** (しゅじん) *[shujin]*
-
   + **Excuse me; Sorry** - **済みません** (すみません) *[sumimasen]*
-
   + **Please say that again** - **もう一度言ってください** *[mo-ichido-itte-kudasai]*
   + **Do you understand?** - **分かりますか** (わかりますか) *[wakarimasu-ka]*
-
   + **Yes** - **はい** *[hai]*
-  
   + **Yes** (c) - **うん** *[un]*
-  
   + **No** - **否** (いいえ) *[iie]*
